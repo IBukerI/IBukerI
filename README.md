@@ -1,44 +1,162 @@
-# Olá, eu sou o Rafael Albuquerque! 👋
+<div align="center">
+  
+# 👋 Olá, eu sou o Rafael Albuquerque!
 
-### 🚀 Desenvolvedor Software | .NET | Angular | Flutter
+### 🚀 Desenvolvedor Full Stack | .NET | Angular | Flutter
 
-Apaixonado por transformar ideias em soluções eficientes. Atualmente focado no ecossistema **.NET** e no desenvolvimento de aplicações escaláveis, sempre buscando aplicar boas práticas de arquitetura e Clean Code.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-albuquerque-40a84923/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IBukerI)
 
----
-
-### 🛠 Minha Stack Técnica
-
-- **Backend:** C# (.NET Core/API), Entity Framework, Linq.
-- **Frontend:** Angular (Moderno), AngularJS (Legado), HTML5, CSS3/Tailwind.
-- **Mobile:** Flutter (Dart).
-- **Bancos de Dados:** SQL Server e MongoDB.
-- **Ferramentas:** Git, Docker, Vercel, Railway.
+</div>
 
 ---
 
-### 📂 Projetos em Destaque
+## 💫 Sobre Mim
 
-#### 💰 Grana Fácil
-Uma aplicação web de gestão financeira pessoal completa.
-- **Tech:** Backend em .NET, Frontend em Angular, persistência em SQL/MongoDB.
-- **Destaque:** Implementação de autenticação, relatórios financeiros e hospedagem automatizada via Railway/Vercel.
+Apaixonado por transformar ideias em soluções eficientes e escaláveis. Atualmente focado no ecossistema **.NET** e no desenvolvimento de aplicações modernas, sempre buscando aplicar boas práticas de arquitetura e Clean Code.
 
-#### 📱 Decifra Pix
-App mobile para leitura e processamento de QR Codes e Códigos de Barras.
-- **Tech:** Flutter para Android/iOS.
-- **Destaque:** Integração com APIs de pagamento e foco em UI/UX intuitiva.
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IBukerI&show_icons=true&theme=radical" alt="Estatísticas do Rafael" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBukerI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+```csharp
+public class Rafael : Desenvolvedor
+{
+    public string Localização => "Sorocaba, São Paulo - BR";
+    public string Foco => ".NET | Angular | Flutter";
+    public List<string> Interesses => new() { "Clean Architecture", "Design Patterns", "Cloud Computing" };
+    public string StatusAtual => "Disponível para novos desafios 🚀";
+}
+```
 
 ---
 
-### 📫 Vamos nos conectar?
+## 🛠️ Stack Técnica
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-albuquerque-40a84923/)
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+### 💰 Grana Fácil
+**Gestão Financeira Pessoal Completa**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+✨ **Destaques:**
+- Sistema completo de autenticação e autorização
+- Relatórios financeiros inteligentes e dashboards interativos
+- Arquitetura limpa e escalável
+- CI/CD automatizado com Railway e Vercel
+
+---
+
+### 📱 Decifra Pix
+**Leitor de QR Codes & Códigos de Barras**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+✨ **Destaques:**
+- Leitura instantânea de Pix QR Code e códigos de barras
+- Integração com APIs de pagamento
+- Interface intuitiva e responsiva
+- Suporte para Android e iOS
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IBukerI&theme=radical&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=IBukerI&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Atividade de Desenvolvimento
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IBukerI&theme=redical&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💼 Experiência & Habilidades
+
+```javascript
+const rafael = {
+    experiencia: {
+        backend: ["C#", ".NET Core", "Entity Framework", "LINQ", "RESTful APIs"],
+        frontend: ["Angular", "TypeScript", "RxJS", "HTML5", "CSS3", "Tailwind"],
+        mobile: ["Flutter", "Dart"],
+        databases: ["SQL Server", "MongoDB"],
+        tools: ["Git", "Docker", "Visual Studio", "VS Code"]
+    },
+    arquitetura: ["Clean Architecture", "SOLID", "Design Patterns", "DDD"],
+    metodologias: ["Agile", "Scrum", "Git Flow"],
+    aprendendo: ["Microservices", "Azure", "Kubernetes"]
+};
+```
+
+---
+
+## 🎯 Objetivos 2026
+
+- [ ] Dominar arquitetura de microservices
+- [ ] Contribuir com projetos open source
+- [ ] Obter certificação Microsoft Azure
+- [ ] Publicar artigos técnicos sobre .NET
+- [ ] Expandir conhecimento em DevOps e CI/CD
+
+---
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-albuquerque-40a84923/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IBukerI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+---
+
+### ⚡ *"O código limpo não é escrito seguindo regras. Você não se torna um artesão de software ao aprender uma lista de heurísticas. O profissionalismo e a arte vêm de valores que dirigem disciplinas."* - Robert C. Martin
+
+---
+
+![](https://komarev.com/ghpvc/?username=IBukerI&color=blueviolet&style=for-the-badge&label=VISITANTES)
+
+</div>
