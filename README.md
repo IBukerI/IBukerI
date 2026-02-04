@@ -32,8 +32,10 @@ App mobile para leitura e processamento de QR Codes e Códigos de Barras.
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do Rafael](https://github-readme-stats.vercel.app/api?username=IBukerI&show_icons=true&theme=radical&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IBukerI&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IBukerI&show_icons=true&theme=radical" alt="Estatísticas do Rafael" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBukerI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
