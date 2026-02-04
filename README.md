@@ -32,12 +32,11 @@ App mobile para leitura e processamento de QR Codes e Códigos de Barras.
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do Rafael](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![Estatísticas do Rafael](https://github-readme-stats.vercel.app/api?username=IBukerI&show_icons=true&theme=radical&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IBukerI&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_LINK_DO_WHATSAPP)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-albuquerque-40a84923/)
