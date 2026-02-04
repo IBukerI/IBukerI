@@ -1,8 +1,8 @@
 # Olá, eu sou o Rafael Albuquerque! 👋
 
-### 🚀 Desenvolvedor Software Junior | .NET | Angular | Flutter
+### 🚀 Desenvolvedor Software | .NET | Angular | Flutter
 
-Apaixonado por transformar ideias em soluções digitais eficientes. Atualmente focado no ecossistema **.NET** e no desenvolvimento de aplicações escaláveis, sempre buscando aplicar boas práticas de arquitetura e Clean Code.
+Apaixonado por transformar ideias em soluções eficientes. Atualmente focado no ecossistema **.NET** e no desenvolvimento de aplicações escaláveis, sempre buscando aplicar boas práticas de arquitetura e Clean Code.
 
 ---
 
