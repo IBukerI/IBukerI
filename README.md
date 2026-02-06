@@ -33,6 +33,8 @@ public class Rafael : Desenvolvedor
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -45,8 +47,11 @@ public class Rafael : Desenvolvedor
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,6 +70,7 @@ public class Rafael : Desenvolvedor
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -73,6 +79,24 @@ public class Rafael : Desenvolvedor
 - Relatórios financeiros inteligentes e dashboards interativos
 - Arquitetura limpa e escalável
 - CI/CD automatizado com Railway e Vercel
+- Integração com PostgreSQL para gestão de dados
+
+---
+
+### 🚗 Autiix
+**Sistema de Gestão de Frota**
+
+![Angular](https://img.shields.io/badge/Angular_16-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+✨ **Destaques:**
+- Controle completo de veículos e manutenções
+- API RESTful desenvolvida em Flask
+- Banco de dados PostgreSQL gerenciado via Supabase
+- Interface moderna e responsiva com Angular 16
+- Sistema de relatórios e análises de frota
 
 ---
 
@@ -119,10 +143,10 @@ public class Rafael : Desenvolvedor
 ```javascript
 const rafael = {
     experiencia: {
-        backend: ["C#", ".NET Core", "Entity Framework", "LINQ", "RESTful APIs"],
+        backend: ["C#", ".NET Core", "Entity Framework", "LINQ", "RESTful APIs", "Flask", "Python"],
         frontend: ["Angular", "TypeScript", "RxJS", "HTML5", "CSS3", "Tailwind"],
         mobile: ["Flutter", "Dart"],
-        databases: ["SQL Server", "MongoDB"],
+        databases: ["PostgreSQL", "SQL Server", "Oracle", "MongoDB", "Supabase"],
         tools: ["Git", "Docker", "Visual Studio", "VS Code"]
     },
     arquitetura: ["Clean Architecture", "SOLID", "Design Patterns", "DDD"],
