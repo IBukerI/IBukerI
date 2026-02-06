@@ -119,7 +119,7 @@ public class Rafael : Desenvolvedor
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IBukerI&theme=radical&hide_border=true)
+![GitHub Streak](https://camo.githubusercontent.com/be3618fa98ea9048bbabd05aa5aa4b1f64b44c306115154116cacfc9b780256a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4942756b657249267468656d653d7261646963616c26686964655f626f726465723d74727565)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=IBukerI&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
