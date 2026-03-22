@@ -73,6 +73,9 @@ public class Rafael : Desenvolvedor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+[![Acessar Projeto](https://img.shields.io/badge/🌐_Acessar_Projeto-granafacil.app.br-512BD4?style=for-the-badge)](https://app.granafacil.app.br/)
+
+
 ✨ **Destaques:**
 - Sistema completo de autenticação e autorização
 - Relatórios financeiros inteligentes e dashboards interativos
@@ -123,6 +126,9 @@ public class Rafael : Desenvolvedor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+[![Acessar Projeto](https://img.shields.io/badge/🌐_Acessar_Projeto-autoavalia.ia.br-DD0031?style=for-the-badge)](https://autoavalia.ia.br)
+
 
 ✨ **Destaques:**
 - Análise inteligente do estado do veículo via IA
