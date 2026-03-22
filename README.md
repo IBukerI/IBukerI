@@ -111,6 +111,27 @@ public class Rafael : Desenvolvedor
 - Interface intuitiva e responsiva
 - Suporte para Android e iOS
 
+---
+
+### 🤖 autoAvalia.ia.br
+**Plataforma de Avaliação Automotiva com Inteligência Artificial**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+✨ **Destaques:**
+- Análise inteligente do estado do veículo via IA
+- Precificação regional dinâmica para venda de automóveis
+- API de scraping em Python/Flask para coleta de dados de mercado
+- Armazenamento de mídias e documentos via Supabase Storage
+- Backend robusto em .NET com frontend moderno em Angular 21
+- Banco de dados híbrido: PostgreSQL (dados estruturados) + MongoDB (dados flexíveis)
+
 </div>
 
 ---
